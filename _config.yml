@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: Huu Tuan
+description: Blog about IT and Cyber Security
+author: Thân Hữu Tuấn
+logo: /static/img/avatar.png
+github: https://github.com/thanhuutuan
+about: Cyber Security
 
-baseurl: "http://thanhuutuan.github.io"
-url: "http://thanhuutuan.github.io"
+baseurl: "https://thanhuutuan.github.io"
+url: "https://thanhuutuan.github.io/blog"
 
 allowsearch: true
 
@@ -14,8 +14,8 @@ disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
 
 share:
-  twitter_username: \#
-  fb_appid: 000000000000
+  twitter_username: \huutuanbg97
+  fb_appid: 100003882696042
 
 
 enableTags: true
