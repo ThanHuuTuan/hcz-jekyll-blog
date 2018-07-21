@@ -13,3 +13,18 @@ permalink: /about/
 5.  Cảm ơn các bạn đã ghé thăm Blog của chúng tôi. Chúc các bạn một ngày vui vẻ và đừng quên [theo dõi Blog](http://thanhuutuan.github.io "Theo dõi Blog này") để thường xuyên cập nhật tin tức mới nhé!
 
 
+## Info Contact
+
+<div class="card">![John](/w3images/team2.jpg)
+
+# Than Huu Tuan
+
+Blogger and Developer
+
+KMA University
+
+<div style="margin: 24px 0;">[](#)[](#)[](#)[](#)</div>
+
+<button>Contact</button>
+
+</div>
