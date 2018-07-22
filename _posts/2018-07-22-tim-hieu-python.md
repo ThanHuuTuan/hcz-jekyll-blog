@@ -1,14 +1,14 @@
-
 ---
 layout: post
 title:  "Tìm hiểu về ngôn ngữ Python"
 subtitle: "Python là một ngôn ngữ lập trình bậc cao, thông dịch, hướng đối tượng, đa mục đích và cũng là một ngôn ngữ lập trình động."
 date:   2018-07-22
-categories: [tuts
+categories: tuts
 tags: [tuts, python]
-permalink: /blog/tim-hieu-ve-ngon-ngu-python.html/
+permalink: /tim-hieu-ve-ngon-ngu-python.html/
 
 ---
+
 I:Python là gì?
 Python là một ngôn ngữ lập trình bậc cao, thông dịch, hướng đối tượng, đa mục đích và cũng là một ngôn ngữ lập trình động.
 Cú pháp của Python là khá dễ dàng để học và ngôn ngữ này cũng mạnh mẽ và linh hoạt không kém các ngôn ngữ khác trong việc phát triển các ứng dụng. Python hỗ trợ mẫu đa lập trình, bao gồm lập trình hướng đối tượng, lập trình hàm và mệnh lệnh hoặc là các phong cách lập trình theo thủ tục.
