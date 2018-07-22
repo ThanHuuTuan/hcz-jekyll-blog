@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tìm hiểu về ngôn ngữ Python"
-subtitle: "Python là một ngôn ngữ lập trình bậc cao, thông dịch, hướng đối tượng, đa mục đích và cũng là một ngôn ngữ lập trình động."
+title:  Tìm hiểu về ngôn ngữ Pytho
+subtitle: Python là một ngôn ngữ lập trình bậc cao, thông dịch, hướng đối tượng, đa mục đích và cũng là một ngôn ngữ lập trình động.
 date:   2018-07-22
 categories: tuts
 tags: [tuts, python]
