@@ -6,7 +6,6 @@ date:   2018-07-22
 categories: news
 tags: [news,security]
 permalink: toan-van-luat-an-ninh-mang/
-bigimg: "/static/img/logo-xana.gif"
 ---
 
 Chương I NHỮNG QUY ĐỊNH CHUNG
