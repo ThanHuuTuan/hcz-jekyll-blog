@@ -9,7 +9,7 @@ permalink: /tim-hieu-ve-ngon-ngu-python.html
 
 ---
 
-I:Python là gì?
+**I:Python là gì?**
 
 
 Python là một ngôn ngữ lập trình bậc cao, thông dịch, hướng đối tượng, đa mục đích và cũng là một ngôn ngữ lập trình động.
@@ -17,14 +17,16 @@ Cú pháp của Python là khá dễ dàng để học và ngôn ngữ này cũn
 Python không chỉ làm việc trên lĩnh vực đặc biệt như lập trình web, và đó là tại sao ngôn ngữ này là đa mục đích bởi vì nó có thể được sử dụng với web, enterprise, 3D CAD, 
 
 
-II: So sánh Python và các ngôn ngữ khác
+**II: So sánh Python và các ngôn ngữ khác**
+
 Dễ học, không quá rườm rà trong việc khai báo. Code ngắn gọn nhằm giúp cho bạn lập trình một cách nhanh chóng và đạt hiệu quả cao.
  Python không có các thuộc tính như :protected,private hay public, không có vòng lặp do…while và switch….case.
 Python mặc dù nhanh hơn so với PHP, nhưng lại không nhanh hơn so với C++, Java.
 Không cần sử dụng ;
 
 
-III: Ưu nhược điểm của Python
+**III: Ưu nhược điểm của Python**
+
 * Ưu điểm: Python có rất nhiều ưu điểm để khiến cho các nhà lập trình web yêu thích và sử dụng nó cho ngôn ngữ lập trình đầu tiên của mình đó là :
 + Đơn giản : Cú pháp đơn giản giúp cho người lập trình dễ dàng đọc và tìm hiểu.
 + Tốc độ : Python có tốc độ xử lý nhanh hơn so với ngôn ngữ PHP
@@ -38,7 +40,7 @@ III: Ưu nhược điểm của Python
 + Python mặc dù nhanh hơn so với PHP, nhưng lại không nhanh hơn so với C++, Java.
 
 
-IV: Python có thể dùng làm gì, đối với security thì nó được dùng làm gì?
+**IV: Python có thể dùng làm gì, đối với security thì nó được dùng làm gì?**
 Python có thể dùng:
 Làm web: Django framework. Udacity, youtube, dropbox được xây dựng (một phần lớn) sử dụng python.
 Làm game: Pygame, đương nhiên python không phải là lựa chọn tốt nhất để xây dựng game.
