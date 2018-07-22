@@ -6,7 +6,7 @@ date:   2018-07-22
 categories: security
 tags: [news,security]
 permalink: bat-dau-voi-ctf/
-bigimg: /static/img/logo-xana.gif
+
 ---
 <div dir="ltr" style="text-align: left;" trbidi="on">
 
