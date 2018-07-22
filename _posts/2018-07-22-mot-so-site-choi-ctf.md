@@ -5,7 +5,7 @@ subtitle: Trong cuộc thi dạng CTF, các đội tham gia sẽ được cấp 
 date:   2018-07-22
 categories: hacking
 tags: [security, hacking]
-permalink: mot-so-site-choi-ctf/
+permalink: blog/mot-so-site-choi-ctf.html
 
 ---
 
