@@ -69,7 +69,7 @@ Lí do tại sao, mình nghĩ con người nên phát triển đam mê từ bé,
 
 Bắt đầu việc phân tích những điểm hay ho trong từng mảng.
 
-### (https://s.w.org/images/core/emoji/2.3/svg/1f310.svg)](https://emojipedia.org/globe-with-meridians/) Web Application Security (Ứng dụng web)
+### [(https://s.w.org/images/core/emoji/2.3/svg/1f310.svg)](https://emojipedia.org/globe-with-meridians/) Web Application Security (Ứng dụng web)
 
 *   **Dễ tiếp cận**, vì kiến thức nó không quá sâu. Bạn không cần phải rành mạch về Hệ điều hành, Cấu trúc dữ liệu gì cả, mà vẫn có thể làm nó. Chỉ cần biết **lập trình**. Vì khi bạn biết lập trình, bạn sẽ chính là người mắc vào những lỗi đó, cách học nhanh nhất và dai nhất là tự vấp và sửa sai lầm của chính mình.
 *   **Target rất nhiều**, nói tới đây không phải cổ súy. Nhưng rõ ràng thế giới www (World-Wide-Web) ngày này cực kì to lớn, ai cũng có thể lập cho mình một website. Chính vì thế mà “bao cát” luyện tập cho mọi người cũng rất nhiều. Nhưng hãy nhớ, xây dựng mới khó, đập phá rất dễ. Hãy là những người trẻ có suy nghĩ và ý thức.
@@ -80,14 +80,14 @@ Bắt đầu việc phân tích những điểm hay ho trong từng mảng.
     *   Content-Security-Policy (CSP)
     *   Cross-Origin Resource sharing (CORs)
     *   X-Frame
-*   (https://s.w.org/images/core/emoji/2.3/svg/1f4d7.svg) The Tangled Web: A Guide to Securing Modern Web Applications  
+*   (https://s.w.org/images/core/emoji/2.3/svg/1f4d7.svg)[The Tangled Web: A Guide to Securing Modern Web Applications)] 
     (Cuốn này bao xô gần hết www này, và được viết từ một hacker huyền thoại (https://s.w.org/images/core/emoji/2.3/svg/1f642.svg) )
 *   Ngôn ngữ nên thành thạo: HTML / Javascript / Java / PHP / ASPX / Ruby / Python
 *   Tips: Một cách hay để cập nhật, thấy được cái hay và sáng tạo của các web ninja khác là theo dõi các report bug bounty trên hackerone / bugcrowd hoặc writeup của họ. Hãy tìm hiểu cách thức họ suy nghĩ, cách suy luận để ra được kết quả.
 
 P/S: Trong phạm vi bài viết này, thay vì đưa chục cuốn sách cho bạn, mình sẽ đưa cho bạn ít nhất có thể, mình nghĩ các bạn nên cố gắng đọc hiểu kiên trì một cuốn nào đó, thay vì tải một đống về, mỗi thứ một chút, chẳng được gì (mình đã từng như vậy nên đây là lời khuyên). Một khi bạn biết mình đã thấu hiểu được lượng kiến thức nhất định, tự khắc lúc đó bạn sẽ biết mình cần làm, cần đọc cái gì tiếp theo thôi.
 
-### (https://s.w.org/images/core/emoji/2.3/svg/262f.svg) Reverse Engineering (Dịch ngược)
+### (https://s.w.org/images/core/emoji/2.3/svg/262f.svg)[Reverse Engineering (Dịch ngược)]
 
 *   **Cần một lượng kiến thức nhất định**, nôm na công việc dịch ngược sẽ giúp bạn thấu hiểu về cách thức hoạt động của một chương trình, chẳng hạn bằng cách nào mà từ một file mp3, khi được tải vào một chương trình chơi nhạc lại phát ra những âm thanh, cấu tạo của tệp mp3 đó là gì ? làm thế nào chương trình biết tới đoạn nào sẽ chơi nốt nhạc gì. Thậm chí ngày nay, việc nghe nhạc bản quyền đã trở nên nghiêm túc, chẳng hạn chương trình chơi nhạc như **Spotify **đã áp dụng cả mã hóa đối với những tệp nhạc đấy, để tránh người dùng tải, lưu giữ, phát tán trái phép. Nhiều người nghĩ rằng RE (Reverse Engineering) chỉ gom gọn trong việc bẻ khóa / crack phần mềm để xài “chùa”. Có lẽ bạn đã hiểu sai, mục đích của RE thậm chí có thể là phân tích cách thức hoạt động, thuật toán đẳng cấp đằng sau một chương trình nào đó của công ty đối thủ mà mình muốn “học hỏi”, hoặc thậm chí như ví dụ nêu trên, là việc phân tích cách giải mã một tệp nhạc của Spotify. Vậy cho nên, kiến thức để giúp bạn RE một chương trình, nó tùy thuộc vào độ phức tạp, loại đối tượng mà bạn đang làm. Ví dụ bạn phải dịch ngược một kernel module nào đó, tất nhiên bạn phải có kiến thức bổ sung về Filesystem/Device Control IO/System Calls/… Còn về kiến thức cơ bản sẽ xoay quanh:
     *   Kiến thức về mã máy (machine code, opcode).
@@ -103,7 +103,7 @@ P/S: Trong phạm vi bài viết này, thay vì đưa chục cuốn sách cho b�
 *   Ngoài ra có một cách học RE hay ho là, bạn hãy lập trình nhiều chương trình, hàm khác nhau, thuật toán khác nhau, compile nó và quăng vào các chương trình dịch ngược để thấy đoạn hợp ngữ được sinh ra, nếu bạn có đang dùng IDA Hex-rays hoặc chương trình Decompiler tương tự để sinh ra mã giả C thì…tạm thời quên nó đi mà hãy tập làm quen với việc đọc hợp ngữ, mã máy, cách thức các instruction hoạt động.
 *   Hãy ráng học những nền tảng cơ bản thật vững chắc, vì để đi đường dài, bạn không thể nào chỉ phụ thuộc vào nó được, sẽ có những trường hợp bạn cần giải quyết bằng những kiến thức thật chắc bài, hoặc thậm chí phải tự làm ra công cụ của riêng mình dựa trên những kiến thức ấy.
 *   Tutorial/Blog Tiếng Việt: kienmanowar / yeuchimse / …
-*   (https://s.w.org/images/core/emoji/2.3/svg/1f4d7.svg) Reversing: Secrets of Reverse Engineering
+*   (https://s.w.org/images/core/emoji/2.3/svg/1f4d7.svg)[Reversing: Secrets of Reverse Engineering]
 
 Hey yo, chưa gì được gần 1 tháng rồi, đợt rồi mình hơi ít thời gian vì đã phải chuẩn bị và tham gia DEFCON 25 CTF diễn ra thường niên tại Las Vegas. Được cho là hội thảo underground có số lượng người tham gia lớn nhất thế giới hiện tại.
 
