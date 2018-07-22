@@ -63,13 +63,13 @@ Lí do tại sao, mình nghĩ con người nên phát triển đam mê từ bé,
 > 
 > Cũng thay vì bạn tìm hiểu khái niệm về một lỗi bảo mật nào đó, đừng!. Đây là cách học mình cho là hay nhất: Hãy tạo ra chính lỗi đó, hãy là người lập trình mắc phải những vấn đề tương tự, rồi bạn sẽ hiểu được nó một cách rõ ràng, hệ thống, và logic nhất. Đó là cách học theo mình là đúng đắn cho một chặng đường dài mà bạn phải theo đuổi.
 > 
-> **Tin mình, hãy học bằng một cách khác đi. Đừng chỉ chạy công cụ nữa (https://s.w.org/images/core/emoji/2.3/svg/1f641.svg)**
+> **Tin mình, hãy học bằng một cách khác đi. Đừng chỉ chạy công cụ nữa **
 
   
 
 Bắt đầu việc phân tích những điểm hay ho trong từng mảng.
 
-### [(https://s.w.org/images/core/emoji/2.3/svg/1f310.svg)](https://emojipedia.org/globe-with-meridians/) Web Application Security (Ứng dụng web)
+###  Web Application Security (Ứng dụng web)
 
 *   **Dễ tiếp cận**, vì kiến thức nó không quá sâu. Bạn không cần phải rành mạch về Hệ điều hành, Cấu trúc dữ liệu gì cả, mà vẫn có thể làm nó. Chỉ cần biết **lập trình**. Vì khi bạn biết lập trình, bạn sẽ chính là người mắc vào những lỗi đó, cách học nhanh nhất và dai nhất là tự vấp và sửa sai lầm của chính mình.
 *   **Target rất nhiều**, nói tới đây không phải cổ súy. Nhưng rõ ràng thế giới www (World-Wide-Web) ngày này cực kì to lớn, ai cũng có thể lập cho mình một website. Chính vì thế mà “bao cát” luyện tập cho mọi người cũng rất nhiều. Nhưng hãy nhớ, xây dựng mới khó, đập phá rất dễ. Hãy là những người trẻ có suy nghĩ và ý thức.
@@ -87,7 +87,7 @@ Bắt đầu việc phân tích những điểm hay ho trong từng mảng.
 
 P/S: Trong phạm vi bài viết này, thay vì đưa chục cuốn sách cho bạn, mình sẽ đưa cho bạn ít nhất có thể, mình nghĩ các bạn nên cố gắng đọc hiểu kiên trì một cuốn nào đó, thay vì tải một đống về, mỗi thứ một chút, chẳng được gì (mình đã từng như vậy nên đây là lời khuyên). Một khi bạn biết mình đã thấu hiểu được lượng kiến thức nhất định, tự khắc lúc đó bạn sẽ biết mình cần làm, cần đọc cái gì tiếp theo thôi.
 
-### (https://s.w.org/images/core/emoji/2.3/svg/262f.svg)[Reverse Engineering (Dịch ngược)]
+### Reverse Engineering (Dịch ngược)
 
 *   **Cần một lượng kiến thức nhất định**, nôm na công việc dịch ngược sẽ giúp bạn thấu hiểu về cách thức hoạt động của một chương trình, chẳng hạn bằng cách nào mà từ một file mp3, khi được tải vào một chương trình chơi nhạc lại phát ra những âm thanh, cấu tạo của tệp mp3 đó là gì ? làm thế nào chương trình biết tới đoạn nào sẽ chơi nốt nhạc gì. Thậm chí ngày nay, việc nghe nhạc bản quyền đã trở nên nghiêm túc, chẳng hạn chương trình chơi nhạc như **Spotify **đã áp dụng cả mã hóa đối với những tệp nhạc đấy, để tránh người dùng tải, lưu giữ, phát tán trái phép. Nhiều người nghĩ rằng RE (Reverse Engineering) chỉ gom gọn trong việc bẻ khóa / crack phần mềm để xài “chùa”. Có lẽ bạn đã hiểu sai, mục đích của RE thậm chí có thể là phân tích cách thức hoạt động, thuật toán đẳng cấp đằng sau một chương trình nào đó của công ty đối thủ mà mình muốn “học hỏi”, hoặc thậm chí như ví dụ nêu trên, là việc phân tích cách giải mã một tệp nhạc của Spotify. Vậy cho nên, kiến thức để giúp bạn RE một chương trình, nó tùy thuộc vào độ phức tạp, loại đối tượng mà bạn đang làm. Ví dụ bạn phải dịch ngược một kernel module nào đó, tất nhiên bạn phải có kiến thức bổ sung về Filesystem/Device Control IO/System Calls/… Còn về kiến thức cơ bản sẽ xoay quanh:
     *   Kiến thức về mã máy (machine code, opcode).
@@ -103,7 +103,7 @@ P/S: Trong phạm vi bài viết này, thay vì đưa chục cuốn sách cho b�
 *   Ngoài ra có một cách học RE hay ho là, bạn hãy lập trình nhiều chương trình, hàm khác nhau, thuật toán khác nhau, compile nó và quăng vào các chương trình dịch ngược để thấy đoạn hợp ngữ được sinh ra, nếu bạn có đang dùng IDA Hex-rays hoặc chương trình Decompiler tương tự để sinh ra mã giả C thì…tạm thời quên nó đi mà hãy tập làm quen với việc đọc hợp ngữ, mã máy, cách thức các instruction hoạt động.
 *   Hãy ráng học những nền tảng cơ bản thật vững chắc, vì để đi đường dài, bạn không thể nào chỉ phụ thuộc vào nó được, sẽ có những trường hợp bạn cần giải quyết bằng những kiến thức thật chắc bài, hoặc thậm chí phải tự làm ra công cụ của riêng mình dựa trên những kiến thức ấy.
 *   Tutorial/Blog Tiếng Việt: kienmanowar / yeuchimse / …
-*   (https://s.w.org/images/core/emoji/2.3/svg/1f4d7.svg)[Reversing: Secrets of Reverse Engineering]
+*   Reversing: Secrets of Reverse Engineering
 
 Hey yo, chưa gì được gần 1 tháng rồi, đợt rồi mình hơi ít thời gian vì đã phải chuẩn bị và tham gia DEFCON 25 CTF diễn ra thường niên tại Las Vegas. Được cho là hội thảo underground có số lượng người tham gia lớn nhất thế giới hiện tại.
 
@@ -113,7 +113,7 @@ Riêng về cảm nghĩ bản thân, mình rất thích tiểu bang đầy nắn
 
 Thôi quay lại chủ đề chính.
 
-### (https://s.w.org/images/core/emoji/2.3/svg/1f575.svg) Software Exploitation (Phần mềm)
+### Software Exploitation (Phần mềm)
 
 *   Đơn giản nó là tìm kiếm và khai thác lỗi bảo mật ở các phần mềm. Công đoạn được cho là quan trọng và cũng là điểm chung lớn nhất của mảng này và Web Application Security là bạn phải tìm bug. Vì phải có bug (lỗi) thì bạn mới có thể khai thác (exploit). Ở mảng này, có hai cách để tìm bug mà được sử dụng nhiều nhất:
     *   **Fuzzing**, hm nôm na, là bạn viết một chương trình tự động gọi là fuzzer để cung cấp input vào một chương trình nào đó một cách ngẫu nhiên để tìm ra lỗi. Giả sử mình có một đoạn hàm C như sau:
@@ -154,12 +154,12 @@ Thôi quay lại chủ đề chính.
     *   Tóm lại, hãy cân đối giữa việc fuzzing và code review cho chính bản thân mình, nhận ra mình thích và mạnh ở điểm nào, và mình nghĩ kết hợp cả 2 thì mới là tốt nhất.
 *   Sau đó sẽ là các bước khai thác lỗi đã có, bypass các mitigation như thế nào, chiến thuật để exploit chương trình đó ra sao, điều khiển thanh ghi, blah blah. Cách tốt nhất để học nó cho một người chưa biết gì là chơi CTF và đọc writeup. Bạn có thể tìm đọc các blog của những người như: suto, peternguyen, meepwn/piggybird/babyphd/nightstorm ctf team, … bằng tiếng Việt. còn tiếng Anh thì bao la. Nhưng nhớ là hãy tự thân vận động để giải bằng khả năng của mình, rồi hẵn tham khảo các bài viết.
 *   Giai đoạn hiện tại, mình đã tạm gác việc tập trung hết thời gian cho mảng Web để chuyển sang tìm hiểu sâu hơn ở mảng này, nhưng tương lai mình nghĩ Application Security (là tất tần tật về bảo mật ứng dụng, có thể là web, có thể là một ứng dụng được viết bằng bất kì ngôn ngữ nào) sẽ là một mảng mạnh và cơ hội được làm công việc bằng đam mê nhiều hơn. Nhìn chung, đòi hỏi kĩ năng đọc và tìm ra bugs rất nhiều. Và đối với bản thân mình, tìm bug là một công việc thú vị nhất trong An toàn thông tin. Vì nó mang đầy tính sáng tạo trong công việc đó, và mình thì không mấy thích thú với những có xu hướng việc lặp đi lặp lại, có phần hơi nhàm chán.
-*   (https://s.w.org/images/core/emoji/2.3/svg/1f4d7.svg) [Nghệ thuật tận dụng lỗi phần mềm – Nguyễn Thành Nam](http://www.bluemoon.com.vn/books/taose.pdf)
-*   (https://s.w.org/images/core/emoji/2.3/svg/1f4d7.svg) Hacking: The Art of Exploitation
-*   Lab và course thì trên mạng có rất nhiều, bạn có thể tham khảo: https://github.com/RPISEC/MBE . Về phần mình, mình chỉ đọc duy nhất cuốn của anh NamNT và tập luyện bằng việc chơi CTF, vì cơ bản cuốn đó đã nói hết những kiến thức cần có rồi, còn lại là bạn sẽ phải tự mày mò, nâng cao trình độ.
+*   ([Nghệ thuật tận dụng lỗi phần mềm – Nguyễn Thành Nam](http://www.bluemoon.com.vn/books/taose.pdf)
+*  Hacking: The Art of Exploitation
+*  Lab và course thì trên mạng có rất nhiều, bạn có thể tham khảo: https://github.com/RPISEC/MBE . Về phần mình, mình chỉ đọc duy nhất cuốn của anh NamNT và tập luyện bằng việc chơi CTF, vì cơ bản cuốn đó đã nói hết những kiến thức cần có rồi, còn lại là bạn sẽ phải tự mày mò, nâng cao trình độ.
 
-### (https://s.w.org/images/core/emoji/2.3/svg/1f511.svg) Cryptography (Mật mã học)
+### Cryptography (Mật mã học)
 
-### (https://s.w.org/images/core/emoji/2.3/svg/1f50e.svg) Forensics (Điều tra chứng cứ số)
+### Forensics (Điều tra chứng cứ số)
 
 ### Networking Security (An toàn mạng)
