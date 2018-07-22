@@ -27,7 +27,7 @@ Không cần sử dụng ;
 
 **III: Ưu nhược điểm của Python**
 
-* Ưu điểm: Python có rất nhiều ưu điểm để khiến cho các nhà lập trình web yêu thích và sử dụng nó cho ngôn ngữ lập trình đầu tiên của mình đó là :
+**Ưu điểm:** Python có rất nhiều ưu điểm để khiến cho các nhà lập trình web yêu thích và sử dụng nó cho ngôn ngữ lập trình đầu tiên của mình đó là :
 + Đơn giản : Cú pháp đơn giản giúp cho người lập trình dễ dàng đọc và tìm hiểu.
 + Tốc độ : Python có tốc độ xử lý nhanh hơn so với ngôn ngữ PHP
 + Tương tác : Chế độ tương tác cho phép người lập trình thử nghiệm tương tác sửa lỗi của các đoạn mã.
@@ -35,7 +35,7 @@ Không cần sử dụng ;
 + Thuận tiện : Python được biên dịch và chạy trên tất cả các nền tảng lớn hiện nay.
 + Mở rộng: Với tính năng này, Python cho phép người lập trình có thể thêm hoặc tùy chỉnh các công cụ nhằm tối đa hiệu quả có thể đạt được trong công việc.
 + GUI Programming: Giúp cho việc thực hiện ảnh minh hoạ di động một cách tự nhiên và sống động.
-*Nhược điểm: Tất cả chúng ta đều biết không có một sản phẩm nào là hoàn hảo tuyệt đối 100%, nó luôn luôn tồn tại những nhược điểm và Python cũng không ngoại lệ. Mặc dù là một ngôn ngữ được giới lập trình yêu thích nhưng nó vẫn có những mặt hạn chế nhất định như sau
+**Nhược điểm:** Tất cả chúng ta đều biết không có một sản phẩm nào là hoàn hảo tuyệt đối 100%, nó luôn luôn tồn tại những nhược điểm và Python cũng không ngoại lệ. Mặc dù là một ngôn ngữ được giới lập trình yêu thích nhưng nó vẫn có những mặt hạn chế nhất định như sau
 + Python không có các thuộc tính như :protected,private hay public, không có vòng lặp do…while và switch….case.
 + Python mặc dù nhanh hơn so với PHP, nhưng lại không nhanh hơn so với C++, Java.
 
