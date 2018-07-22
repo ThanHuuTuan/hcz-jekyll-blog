@@ -3,7 +3,7 @@ layout: post
 title:  Một số site chơi CTF
 subtitle: Trong cuộc thi dạng CTF, các đội tham gia sẽ được cấp một máy chủ (hoặc một mạng máy chủ) đã cài đặt sẵn nhiều chương trình có các lỗ hổng bảo mật
 date:   2018-07-22
-categories: [hacking]
+categories: hacking
 tags: [security, hacking]
 permalink: mot-so-site-choi-ctf/
 
