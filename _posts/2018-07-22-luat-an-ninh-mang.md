@@ -5,8 +5,8 @@ subtitle: Luật này quy định về hoạt động bảo vệ an ninh quốc 
 date:   2018-07-22
 categories: news
 tags: [news,security]
-permalink: /blogging/kinh-nghiem-tao-webiste-ca-nhan-voi-jekyll/
-bigimg: /static/img/logo-xana.gif
+permalink: toan-van-luat-an-ninh-mang/
+bigimg: "/static/img/logo-xana.gif"
 ---
 
 Chương I NHỮNG QUY ĐỊNH CHUNG
