@@ -5,7 +5,7 @@ date:   2018-07-20 13:50:39
 categories: infomation
 tags: [tuts, news]
 permalink: /cau-hoi-phong-van-php/
-bigimg: "/static/img/logo-xana.gif"
+bigimg: /static/img/logo-xana.gif
 ---
 [![](https://3.bp.blogspot.com/-oB077863oQ8/WrYrvTwQLAI/AAAAAAAADgY/D7AumFr7LvMOqAvumQt1_QCmm5e5Z7j2ACLcBGAs/s640/php-interview-696x392.jpg)](https://3.bp.blogspot.com/-oB077863oQ8/WrYrvTwQLAI/AAAAAAAADgY/D7AumFr7LvMOqAvumQt1_QCmm5e5Z7j2ACLcBGAs/s1600/php-interview-696x392.jpg)
 
