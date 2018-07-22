@@ -6,7 +6,7 @@ date:   2018-07-22
 categories: [hacking]
 tags: [security, hacking]
 permalink: /blogging/mot-so-site-choi-ctf/
-bigimg: "/assets/img/blogging/jekyll/jekyllhomepage.png"
+
 ---
 
 [![](https://dejandayoff.com/assets/img/ctf/cmdnctrl/ShadowBank.png)](https://dejandayoff.com/assets/img/ctf/cmdnctrl/ShadowBank.png)
