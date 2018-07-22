@@ -1,13 +1,14 @@
---- 
+---
 layout: post
 title:  "Một số site chơi CTF"
-subtitle: "Trong cuộc thi dạng CTF, các đội tham gia sẽ được cấp một máy chủ"
+subtitle: "Trong cuộc thi dạng CTF, các đội tham gia sẽ được cấp một máy chủ (hoặc một mạng máy chủ) đã cài đặt sẵn nhiều chương trình có các lỗ hổng bảo mật"
 date:   2018-07-22
 categories: [hacking]
-tags: [hacking, website]
-permalink: /mot-so-site-choi-ctf.html/
+tags: [security, hacking]
+permalink: /blogging/mot-so-site-choi-ctf/
 bigimg: "/assets/img/blogging/jekyll/jekyllhomepage.png"
 ---
+
 [![](https://dejandayoff.com/assets/img/ctf/cmdnctrl/ShadowBank.png)](https://dejandayoff.com/assets/img/ctf/cmdnctrl/ShadowBank.png)
 
   
