@@ -5,7 +5,7 @@ subtitle: Python là một ngôn ngữ lập trình bậc cao, thông dịch, h�
 date:   2018-07-22
 categories: tuts
 tags: [tuts, python]
-permalink: /tim-hieu-ve-ngon-ngu-python.html/
+permalink: /tim-hieu-ve-ngon-ngu-python.html
 
 ---
 
