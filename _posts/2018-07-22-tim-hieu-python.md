@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tìm hiểu về ngôn ngữ Pytho
+title:  Tìm hiểu về ngôn ngữ Python
 subtitle: Python là một ngôn ngữ lập trình bậc cao, thông dịch, hướng đối tượng, đa mục đích và cũng là một ngôn ngữ lập trình động.
 date:   2018-07-22
 categories: tuts
