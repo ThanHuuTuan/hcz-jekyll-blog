@@ -44,7 +44,7 @@ bigimg: /static/img/logo-xana.gif
 *   Được sử dụng để hiển thị thông tin, cấu trúc, giá trị của một hoặc nhiều biến.
 *   Cú pháp : 
     
-   ```
+   ```php
 var_dump(var1,  var  2,  ...  ,  var n);
 }
 ```
