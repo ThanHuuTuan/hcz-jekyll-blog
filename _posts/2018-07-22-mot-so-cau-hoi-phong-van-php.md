@@ -89,8 +89,9 @@ Là một tệp cấu hình chạy trên máy chủ Apache. Dùng để thay đ
 12\. Làm thế nào để thay đổi múi giờ (time zone)
 
 *   Sử dụng hàm : 
-    
-    1.  date\_default\_timezone_set('Asia/Ho\_Chi\_Minh');
+ {% highlight php %}
+ date\_default\_timezone_set('Asia/Ho\_Chi\_Minh');
+{% endhighlight %}
     
 
 13\. Sự khác nhau giữa Public, Protected, Private ?
@@ -131,4 +132,6 @@ Có thể sử dụng thẻ <meta> để làm mới trang hoặc chuyển hư�
 
 18\. Kết quả hiển thị dưới đây là gì ?
 
-$arrayData1 =  \['126'=>'a','226'=>'b','336'=>'c'\]; $arrayData2 =  \['446'=>'a','556'=>'b','666'=>'c'\]; $resultant = array_merge($arrayData1, $arrayData2); print_r($resultant);  // Result  Array  (  \[0\]  => a \[1\]  => b \[2\]  => c \[3\]  => a \[4\]  => b \[5\]  => c )
+{% highlight php %}
+ $arrayData1 =  \['126'=>'a','226'=>'b','336'=>'c'\]; $arrayData2 =  \['446'=>'a','556'=>'b','666'=>'c'\]; $resultant = array_merge($arrayData1, $arrayData2); print_r($resultant);  // Result  Array  (  \[0\]  => a \[1\]  => b \[2\]  => c \[3\]  => a \[4\]  => b \[5\]  => c )
+{% endhighlight %}
