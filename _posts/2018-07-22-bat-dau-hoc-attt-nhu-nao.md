@@ -80,8 +80,8 @@ Bắt đầu việc phân tích những điểm hay ho trong từng mảng.
     *   Content-Security-Policy (CSP)
     *   Cross-Origin Resource sharing (CORs)
     *   X-Frame
-*   (https://s.w.org/images/core/emoji/2.3/svg/1f4d7.svg)[The Tangled Web: A Guide to Securing Modern Web Applications)] 
-    (Cuốn này bao xô gần hết www này, và được viết từ một hacker huyền thoại (https://s.w.org/images/core/emoji/2.3/svg/1f642.svg) )
+*   The Tangled Web: A Guide to Securing Modern Web Applications)
+    (Cuốn này bao xô gần hết www này, và được viết từ một hacker huyền thoại )
 *   Ngôn ngữ nên thành thạo: HTML / Javascript / Java / PHP / ASPX / Ruby / Python
 *   Tips: Một cách hay để cập nhật, thấy được cái hay và sáng tạo của các web ninja khác là theo dõi các report bug bounty trên hackerone / bugcrowd hoặc writeup của họ. Hãy tìm hiểu cách thức họ suy nghĩ, cách suy luận để ra được kết quả.
 
@@ -107,9 +107,9 @@ P/S: Trong phạm vi bài viết này, thay vì đưa chục cuốn sách cho b�
 
 Hey yo, chưa gì được gần 1 tháng rồi, đợt rồi mình hơi ít thời gian vì đã phải chuẩn bị và tham gia DEFCON 25 CTF diễn ra thường niên tại Las Vegas. Được cho là hội thảo underground có số lượng người tham gia lớn nhất thế giới hiện tại.
 
-Mình cũng vừa có một tuần được ở trong tiểu bang California, nơi mà người Việt hải ngoại sinh sống khá nhiều ở đây, được ghé thăm quận Cam, Phước Lộc Thọ,… May mắn cũng được đi chơi ké một gia đình bạn bè người Việt đang sinh sống ở Mỹ nên mình cũng được nghe những câu chuyện và tìm hiểu được tí xíu về đời sống, sinh hoạt của người dân ở đó. Tính viết một bài nói về cảm nghĩ chuyến đi, mà không biết nên không (https://s.w.org/images/core/emoji/2.3/svg/1f914.svg).
+Mình cũng vừa có một tuần được ở trong tiểu bang California, nơi mà người Việt hải ngoại sinh sống khá nhiều ở đây, được ghé thăm quận Cam, Phước Lộc Thọ,… May mắn cũng được đi chơi ké một gia đình bạn bè người Việt đang sinh sống ở Mỹ nên mình cũng được nghe những câu chuyện và tìm hiểu được tí xíu về đời sống, sinh hoạt của người dân ở đó. Tính viết một bài nói về cảm nghĩ chuyến đi, mà không biết nên không .
 
-Riêng về cảm nghĩ bản thân, mình rất thích tiểu bang đầy nắng này ![🌞](https://s.w.org/images/core/emoji/2.3/svg/1f31e.svg) , mình cũng đi được vài nước tiên tiến khác, nhưng hiện tại California đang là nơi mình muốn quay lại nhiều nhất. Thời tiết ôn hòa là lí do nhiều người muốn đến đây sống mặc dù là một trong các tiểu bang có mức sống cao nhất nước Mỹ, nắng nóng nhưng lại không khó chịu như Việt Nam và Singapore (chắc do độ ẩm ?). Biển bờ tây tuyệt đẹp, đường phố cây cối, nhà cửa được trang trí 2 bên đường cực kì hợp lý. Đặc biệt, có rất nhiều hàng quán, đồ ăn Việt Nam.
+Riêng về cảm nghĩ bản thân, mình rất thích tiểu bang đầy nắng này , mình cũng đi được vài nước tiên tiến khác, nhưng hiện tại California đang là nơi mình muốn quay lại nhiều nhất. Thời tiết ôn hòa là lí do nhiều người muốn đến đây sống mặc dù là một trong các tiểu bang có mức sống cao nhất nước Mỹ, nắng nóng nhưng lại không khó chịu như Việt Nam và Singapore (chắc do độ ẩm ?). Biển bờ tây tuyệt đẹp, đường phố cây cối, nhà cửa được trang trí 2 bên đường cực kì hợp lý. Đặc biệt, có rất nhiều hàng quán, đồ ăn Việt Nam.
 
 Thôi quay lại chủ đề chính.
 
