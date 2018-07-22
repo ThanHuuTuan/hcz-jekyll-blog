@@ -12,7 +12,7 @@ permalink: bat-dau-voi-ctf/
 
 <div style="background-color: white; color: #3a4145; font-family: &quot;Open Sans&quot;, Merriweather, serif; font-feature-settings: 'liga' 1, 'onum' 1, 'kern' 1; font-size: 18px; letter-spacing: 0.1px; margin-bottom: 1.75em; text-rendering: geometricPrecision;">Web là một trong những mảng dễ tiếp cận khi chơi CTF. **Vậy bắt đầu CTF mảng Web như thế nào?**  
 
-<div class="separator" style="clear: both; text-align: center;">[![](https://whitehat.vn/image/xenforo_image/14899399482016-03-18_233536.png)](https://whitehat.vn/image/xenforo_image/14899399482016-03-18_233536.png)</div>
+<div class="separator" style="clear: both; text-align: center;">[https://whitehat.vn/image/xenforo_image/14899399482016-03-18_233536.png](https://whitehat.vn/image/xenforo_image/14899399482016-03-18_233536.png)</div>
 
 </div>
 
