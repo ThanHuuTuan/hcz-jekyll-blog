@@ -1,4 +1,4 @@
-  
+--- 
 layout: post
 title:  "Một số site chơi CTF"
 subtitle: "Trong cuộc thi dạng CTF, các đội tham gia sẽ được cấp một máy chủ"
@@ -7,6 +7,7 @@ categories: [hacking]
 tags: [hacking, website]
 permalink: /mot-so-site-choi-ctf.html/
 bigimg: "/assets/img/blogging/jekyll/jekyllhomepage.png"
+---
 [![](https://dejandayoff.com/assets/img/ctf/cmdnctrl/ShadowBank.png)](https://dejandayoff.com/assets/img/ctf/cmdnctrl/ShadowBank.png)
 
   
